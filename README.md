@@ -15,7 +15,14 @@
 **GitHub**
 - ## 📫 How to reach me ...
 - [X](x.com/Israel_Ojiefoh1)
-<!---
-IsraelOjiefoh/IsraelOjiefoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [LINKEDIN](https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav)
+
+## 👉 My Skills
+### 👉 Front End 
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **REACT**
+- **Tailwind CSS**
+### 👉Data science and machine learning 
+- **Numpy**
