@@ -11,7 +11,8 @@
  
 - Full Stack Data Sciene, Machine Learning Engineering, Deep Learning, Computer Vision, and Natural Language Processing
 
-- **💞️ I’m looking to collaborate on ... GitHub**
+## 💞️ I’m looking to collaborate on...
+**GitHub**
 - 📫 How to reach me ...
   [X](https://x.com/Israel_Ojiefoh1)
 <!---
