@@ -13,8 +13,8 @@
 
 ## 💞️ I’m looking to collaborate on...
 **GitHub**
-- 📫 How to reach me ...
-  ![picture of X](https://www.flickr.com/photos/199107698@N08/53151580531/in/dateposted-public/)
+- ## 📫 How to reach me ...
+- [X](x.com/Israel_Ojiefoh1)
 <!---
 IsraelOjiefoh/IsraelOjiefoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
