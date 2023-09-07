@@ -2,14 +2,14 @@
 - ## About Me
 - ### 👀 I’m interested in ...
   
-- 🧑‍💻  Data Science
-- 🧑‍💻  using Software as a solution to most Problems 
-- 📝  having a strong foundation and interest in Data Science and Artificial Intelligence.
+- 🧑‍💻  Full Stack Web Development
+- 🧑‍💻  Using Software as a Solution to Most Problems 
+- 📝  Having a strong foundation and interest in Web Development.
 - 🤓 Learning new things 
 
  ## 🌱 I’m currently learning ...
  
-- Full Stack Data Sciene, Machine Learning Engineering, Deep Learning, Computer Vision, and Natural Language Processing
+- Full Stack Web Development With React, TailWindCss NodeJs
 
 ## 💞️ I’m looking to collaborate on...
 **GitHub**
@@ -24,5 +24,5 @@
 - **JavaScript**
 - **REACT**
 - **Tailwind CSS**
-### 👉Data science and machine learning 
-- **Numpy**
+- **Bootstrap**
+- **Python**
