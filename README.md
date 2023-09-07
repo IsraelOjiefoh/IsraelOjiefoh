@@ -18,7 +18,6 @@
 - [LINKEDIN](https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav)
 
 ## 👉 My Skills
-### 👉 Front End 
 - **HTML**
 - **CSS**
 - **JavaScript**
