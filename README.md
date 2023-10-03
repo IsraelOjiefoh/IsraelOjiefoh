@@ -2,14 +2,14 @@
 - ## About Me
 - ### 👀 I’m interested in ...
   
-- 🧑‍💻  Full Stack Web Development
+- 🧑‍💻  Front End Web Development
 - 🧑‍💻  Using Software as a Solution to Most Problems 
 - 📝  Having a strong foundation and interest in Web Development.
 - 🤓 Learning new things 
 
  ## 🌱 I’m currently learning ...
  
-- Full Stack Web Development With React, TailWindCss NodeJs
+- Front End Web Development With React, TailWindCss 
 
 ## 💞️ I’m looking to collaborate on...
 **GitHub**
