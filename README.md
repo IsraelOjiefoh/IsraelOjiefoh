@@ -22,6 +22,7 @@
 - **CSS**
 - **JavaScript**
 - **REACT**
+- **Node & Express.js**
 - **Tailwind CSS**
 - **Bootstrap**
 - **Python**
