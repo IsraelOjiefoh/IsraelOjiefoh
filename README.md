@@ -33,14 +33,11 @@ Technical Lead with 4+ years of experience driving cloud-native, full-stack solu
 * **Databases:** PostgreSQL, MySQL, NoSQL
 * **Testing & Data:** Jest, Vitest, Pytest, Pandas, Scikit-learn
 
----
+### 📊 GitHub Analytics
 
-### 📊 Engineering Presence
+![Israel's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=IsraelOjiefoh&show_icons=true&theme=tokyonight)
 
-![Israel's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsraelOjiefoh&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelOjiefoh&layout=compact&theme=tokyonight)
-
----
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IsraelOjiefoh&layout=compact&theme=tokyonight)
 
 ### 📫 Let’s Connect
 
