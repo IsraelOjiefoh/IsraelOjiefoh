@@ -44,7 +44,6 @@ Technical Lead with 4+ years of experience driving cloud-native, full-stack solu
 I am currently seeking **High-Impact International Remote Roles**. If your team needs a lead who prioritizes architectural integrity and rapid, reliable delivery, let’s talk.
 
 * **Email:** [israelmayowa580@gmail.com](mailto:israelmayowa580@gmail.com)
-* **LinkedIn:** [linkedin.com/in/israelojiefoh](https://linkedin.com/in/israelojiefoh) 
 * **Availability:** Immediate
 
 ---
