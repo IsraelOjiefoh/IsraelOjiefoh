@@ -1,7 +1,7 @@
 # 🚀 Israel Ojiefoh
 **Software Engineering Lead | Full-Stack Architect | AI & Cloud Specialist**
 
-Technical Lead with 4+ years of experience driving cloud-native, full-stack solutions from concept to scale. I specialize in bridging the gap between high-performance user experiences and robust, automated backends—with a relentless focus on CI/CD excellence, TDD, and secure cloud deployments.
+Technical Lead with 3+ years of experience driving cloud-native, full-stack solutions from concept to scale. I specialize in bridging the gap between high-performance user experiences and robust, automated backends—with a relentless focus on CI/CD excellence, TDD, and secure cloud deployments.
 
 ---
 
