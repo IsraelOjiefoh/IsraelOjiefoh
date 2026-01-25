@@ -35,9 +35,7 @@ Technical Lead with 4+ years of experience driving cloud-native, full-stack solu
 
 ### 📊 GitHub Analytics
 
-![Israel's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsraelOjiefoh&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
-
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IsraelOjiefoh&layout=compact&theme=tokyonigh)
+![GitHub Metrics](github-metrics.svg)
 
 ### 📫 Let’s Connect
 
