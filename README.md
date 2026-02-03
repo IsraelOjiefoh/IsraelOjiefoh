@@ -1,16 +1,16 @@
 # 🚀 Israel Ojiefoh
-**Software Engineering Lead | Full-Stack Architect | AI & Cloud Specialist**
+**Full-Stack Architect | Shopify App Developer | AI Applications**
 
-Technical Lead with 3+ years of experience driving cloud-native, full-stack solutions from concept to scale. I specialize in bridging the gap between high-performance user experiences and robust, automated backends—with a relentless focus on CI/CD excellence, TDD, and secure cloud deployments.
+3+ years of experience driving full-stack solutions from concept to scale. I specialize in bridging the gap between high-performance user experiences and robust, automated backends—with a relentless focus on CI/CD excellence, TDD, and secure cloud deployments.
 
 ---
 
 ### 🔨 Core Competencies
 
-* **Architectural Leadership:** Designing scalable, modular database schemas and microservices.
+* **Architectural Thinking:** Designing scalable, modular database schemas and microservices.
 * **AI & Data Engineering:** Prompt engineering, predictive modeling, and MLOps pipelines.
 * **Full-Stack Fluency:** Delivering seamless Web & Mobile platforms using React/Next.js and FastAPI/NestJS.
-* **DevOps & Infrastructure:** Automating delivery with Docker, GitHub Actions, and AWS/GCP.
+* **DevOps & Infrastructure:** Automating delivery with Docker, GitHub Actions.
 * **Security & Reliability:** Implementing TDD (Jest/Pytest) and role-based access control (RBAC).
 
 ---
@@ -29,7 +29,7 @@ Technical Lead with 3+ years of experience driving cloud-native, full-stack solu
 * **Languages:** TypeScript, JavaScript (ES6+), Python, SQL
 * **Frontend:** React, Next.js, Vue, Nuxt, Tailwind CSS
 * **Backend:** FastAPI, Express, NestJS, Supabase (Auth/DB/Storage)
-* **Cloud & Infra:** AWS, GCP, Cloudflare, Docker, GitHub Actions (CI/CD)
+* **Cloud & Infra:**Cloudflare, Docker, GitHub Actions (CI/CD)
 * **Databases:** PostgreSQL, MySQL, NoSQL
 * **Testing & Data:** Jest, Vitest, Pytest, Pandas, Scikit-learn
 
